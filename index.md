@@ -3,13 +3,15 @@
 
 | **Layer**                    | **Physical (P)** | **Biological (B)**                        | **Social (S)**              | **Metaphysical (M)**                  | **Computational (C)**        |
 | ---------------------------- | ---------------- | ----------------------------------------- | --------------------------- | ------------------------------------- | ---------------------------- |
-| **1. Energy / Resources**    | Energy (E)       | ATP flux / metabolic energy               | Resources / flows           | Ontology (being, what-is)             | Parameters (θ)               |
+| **1. Energy / Resources**    | Energy (E)       | ATP flux / metabolic energy               | Resources / flows           | Ontology (being, what-is)             | Parameters `*` (θ)               |
 | **2. Gradients / Structure** | Density (ρ)      | Ion gradients / membranes                 | Institutions (rules, norms) | Agency (who acts)                     | Variance-Covariance (Σ)      |
 | **3. Rhythm / Interaction**  | Wavelength (λ)   | Organs / structural units                 | Roles / agents              | Space (stage of action)               | Collisions / likelihood h(t) |
-| **4. Cycles / Flow**         | Frequency (ν)    | Biological rhythms (heartbeat, circadian) | Cycles (markets, elections) | Time (sequence, change)               | Residuals (e = y–ŷ)          |
+| **4. Cycles / Flow**         | Frequency (ν)    | Biological rhythms (heartbeat, circadian) | Cycles (markets, elections) | Time (sequence, change)               | Residuals`*` (e = y–ŷ)          |
 | **5. Ground / Persistence**  | Mass (m)         | Biomass (growth, embodied matter)         | Capital / installed base    | Epistemology (knowledge, persistence) | Update (θ′)                  |
 
 ---
+
+`*` homoskedasticity/heteroskedasticity
 
 ## 🔄 How to Read This
 
