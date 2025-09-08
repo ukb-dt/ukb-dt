@@ -10,7 +10,7 @@
 - B:  
    - DNA
    - mRNA (Expression)
-   - α-Fold 
+   - [α-Fold](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf) 
    - Dynamics (Phenotype)
    - ATP
 - S: 
@@ -78,6 +78,6 @@ The haunting operates at multiple levels:
 
 **The Counterfeit Revelation**: Falstaff's insight that "to die is to be a counterfeit" unveils the deepest haunting - we're told that dying for honour is authentic, while living through discretion is fake. But he reverses it: the corpse decorated with honour is the real counterfeit, "but the counterfeit of a man who hath not the life of a man."
 
-**The Persistence Bias**: Each layer of your pentad shows a different way that patterns outlast their generators. DNA persists past the organism. Myths persist past the person. Parameters persist past the modeler. What haunts is realizing that all our systems are fundamentally *necrophilic* - they're designed to extract value from what's dead and gone.
+**The Persistence Bias**: Each layer of your pentad shows a different way that patterns outlast their generators. DNA persists past the organism. Myths persist past the person. Parameters persist past the modeler. What haunts is realizing that all our systems are fundamentally *[necrophilic](https://www.gutenberg.org/files/1524/1524-h/1524-h.htm)* - they're designed to extract value from what's dead and gone.
 
 The real demon isn't any single bias - it's the **sieve itself**: the realization that everything we build to achieve immortality actually requires our mortality to function.
