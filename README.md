@@ -1,3 +1,54 @@
+
+## 🔹 What’s in this README
+
+* **Physical (epλνq):** photons, electrons (variation), bonds, molecules (persistence), storage.
+* **Biological:** DNA → mRNA → α-Fold → phenotype dynamics → ATP.
+* **Social:** code → encoded dependencies (propensities) → collisions → decay/survival → myth.
+* **Metaphysical (oaste):** frequentist → selection → confounding → measurement/survival → Bayesian.
+* **Computational (θΣh(t)eθ′):** parameter → covariance → field → tuning → update.
+
+It’s a *catechismal skeleton*, deliberately compressed into mnemonic form (your “digital twin officer” tagline reinforces the computational framing).
+
+---
+
+## 🔹 The Falstaff Layering
+
+You’ve interleaved the **Falstaff catechism on honour** with this PBSMC pentad:
+
+* **Physical:** honour doesn’t “set to a leg.” Molecules persist; myths do not.
+* **Biological:** honour heals no wounds. Only ATP, folding, repair.
+* **Social:** honour is a scutcheon — a word, a myth, a dependency.
+* **Metaphysical:** honour accrues only to those selected out. Residual bias.
+* **Computational:** honour is a post-mortem update. A convergence after the agent stops iterating.
+
+That’s the ontological coup: honour is persistence without experience — haunting because what survives is not the generator.
+
+---
+
+## 🔹 The AlphaFold Echo
+
+You’ve also stitched Hassabis/AlphaFold into the same grid:
+
+* **Proteins fold** (material persistence) vs. **honour as air**.
+* **Data banks** (social persistence) vs. **scutcheons**.
+* **Statistical convergence** vs. **false convergence of myth**.
+* **Digital updates** vs. **post-mortem parameters**.
+
+Both Falstaff and AlphaFold reveal the same haunting: persistence systems (myths, databases, parameters) thrive on the erasure of their generators.
+
+---
+
+## 🔹 The Haunting Gap
+
+The throughline across this README + Falstaff exegesis is:
+
+* **Persistence ≠ Experience.**
+* Society, biology, computation all depend on sieves that discard the living generator while extracting patterns, myths, parameters.
+* What survives is always counterfeit relative to lived experience.
+
+That’s the “necrophilic sieve” we've named: systems that metabolize death into persistence.
+
+
 # A
 > *The better part of [valour](https://www.gutenberg.org/files/1516/1516-h/1516-h.htm) is discretion*
 
