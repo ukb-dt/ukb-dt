@@ -81,3 +81,67 @@ The haunting operates at multiple levels:
 **The Persistence Bias**: Each layer of your pentad shows a different way that patterns outlast their generators. DNA persists past the organism. Myths persist past the person. Parameters persist past the modeler. What haunts is realizing that all our systems are fundamentally *[necrophilic](https://www.gutenberg.org/files/1524/1524-h/1524-h.htm)* - they're designed to extract value from what's dead and gone.
 
 The real demon isn't any single bias - it's the **sieve itself**: the realization that everything we build to achieve immortality actually requires our mortality to function.
+
+# D
+
+
+## 🔬 Physical (epλνq → Proteins)
+
+Falstaff: *Honour cannot set to a leg.* Molecules persist longer than myths.
+Hassabis (pp. 8–10): Proteins are the **building blocks of life**, folding spontaneously within milliseconds despite astronomical combinatorial possibilities.
+
+→ Persistence in physics/biology is **material**: bonds, molecules, proteins that actually repair or sustain. Honour, by contrast, is *air*—no ATP, no folding.
+
+---
+
+## 🧬 Biological (DNA → Phenotype)
+
+Falstaff: No “skill in surgery.” Honour cannot restore phenotype to function.
+Hassabis (pp. 11–13): Decades of painstaking experimental biology built the **Protein Data Bank**, training AlphaFold to atomic accuracy.
+
+→ Biology’s persistence is *iterative repair*: enzymes, folding pathways. Honour heals nothing; proteins heal everything.
+
+---
+
+## 🏛 Social (Myth vs. Database)
+
+Falstaff: Honour is a “scutcheon,” an encoded dependency, a survival only in story.
+Hassabis (pp. 15–16): AlphaFold’s **open-sourced database** becomes a social myth of a different order—30,000+ citations, 2M researchers, a new common substrate.
+
+→ Society feeds on **symbols**: coats of arms, or protein databases. One is necrophilic (praise of the dead), the other generative (cures, enzymes, neglected diseases).
+
+---
+
+## 📊 Metaphysical (oaste → Bias)
+
+Falstaff: Honour accrues only to those *selected out*. It’s a residual, a cruel survivor bias.
+Hassabis (p. 23): His conjecture: any natural pattern can be efficiently discovered by a classical learning algorithm. But that too is a selection bias: what persists are *patterns*, not experiencers.
+
+→ The metaphysics of honour = *false convergence.* The metaphysics of AlphaFold = *efficient convergence.* Both erase the agent that generated the data.
+
+---
+
+## 💻 Computational (θΣh(t)eθ’ → Digital Biology)
+
+Falstaff: Honour is an update written after the agent is gone, no longer iterating.
+Hassabis (p. 22): AlphaFold ushers in a **new era of digital biology**, “Science at Digital Speed,” where models tune and recycle, iterating structures in silico.
+
+→ Computation persists by **updating parameters**, whether that’s an obituary rewriting a life, or AlphaFold tuning a folding pathway. The update survives; the agent does not.
+
+---
+
+## 🩸 The Haunting Parallel
+
+Falstaff says: *Life persists only in discretion. Honour is for the dead.*
+Hassabis says (p. 25): *AI must be built responsibly, for the benefit of everyone.*
+
+The haunting gap: **what persists is not us.** Proteins, myths, parameters—all survive their generators. Falstaff unmasks society’s necrophilia; Hassabis demonstrates science’s necrophilia (systems thriving on the data of the dead, tissues dissolved, proteins crystallized).
+
+---
+
+🔥 So the catechism doubles:
+
+* **Falstaff**: Better to counterfeit honour than life.
+* **Hassabis**: Better to counterfeit biology (simulate, fold) than to wait for death (wet-lab attrition).
+
+ 
