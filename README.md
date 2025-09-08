@@ -1,0 +1,33 @@
+
+> *The better part of valour is discretion*
+
+- P: (epλνq)   
+   - Photons
+   - Electrons (Variation)
+   - Bonds
+   - Molecules (Persistence)
+   - Storage
+- B:  
+   - DNA
+   - mRNA (Expression)
+   - α-Fold 
+   - Dynamics (Phenotype)
+   - ATP
+- S: 
+   - Code
+   - Encoded Dependencies (Propensities)
+   - Collisions 
+   - Decay/Survival
+   - Myth
+- M: (oaste)
+   - Frequentist
+   - Selection (Risk Group)
+   - Confounding
+   - Measurement/Survival (Residual)
+   - Bayesian
+- C: θΣh(t)eθ’
+   - Parameter
+   - Covariance
+   - Field
+   - Tuning
+   - Update
